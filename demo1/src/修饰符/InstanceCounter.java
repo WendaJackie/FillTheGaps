@@ -14,7 +14,7 @@ public class InstanceCounter {
         InstanceCounter.addInstance();
     }
 
-    public static void main(String[] arguments) {
+    public static void main(String[] args) {
         System.out.println("Starting with " +
                 InstanceCounter.getCount() + " instances");
         for (int i = 0; i < 500; ++i){

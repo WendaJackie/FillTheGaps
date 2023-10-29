@@ -1,6 +1,5 @@
 package 栈与队列;
-
-import java.util.Stack;
+import java.util.*;
 
 public class leetcode232 {
     public static void main(String[] args) {

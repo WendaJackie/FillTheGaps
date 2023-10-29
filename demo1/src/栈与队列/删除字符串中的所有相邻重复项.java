@@ -1,10 +1,15 @@
 package 栈与队列;
-
-import java.util.ArrayDeque;
+import java.util.*;
 
 public class 删除字符串中的所有相邻重复项 {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        boolean b = scanner.hasNextBoolean();
+        try{
 
+        }catch(NullPointerException e){
+            throw e;
+        }
     }
 }
 
